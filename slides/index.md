@@ -29,9 +29,9 @@ Note: Crear una situación de aprendizaje original y un avatar animado con voz c
 
 ---
 
-## Manos a la obra
+## Acceso a los materiales
 
-<img class="r-stretch" style="text-align: center" src="assets/qr-descarga-materiales.png">
+<img class="r-stretch" style="text-align: center" src="assets/qr-materiales.png">
 
 
 <!-- ---

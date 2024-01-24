@@ -25,6 +25,6 @@ Para lograr esto, combinaremos cuatro modelos de IA de código abierto, lo que n
 
 ## Desarrollo del taller
 
-* [Presentación]()
-* [Guía de la sesión]()
+* [Presentación](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/slides/)
+* [Guía de la sesión](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/Guia-del-taller.html)
 
