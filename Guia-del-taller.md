@@ -12,12 +12,18 @@ Iniciaremos diseñando una situación de aprendizaje original. Elijan un tema qu
 
 Para la generación de la SdA usaremos los siguientes **recursos**:
 
+**Modelos de lenguaje**
 - [Hugging Chat Mixtral8x7B](https://huggingface.co/chat/)
 - [ChatGPT](https://chat.openai.com/)
-- [Ejemplo de conversación para generar una SdA paso a paso]()
+
+**Ejemplos de conversaciones para genererar la SdA paso a paso**
+- [Ejemplo de conversación para generar una SdA paso a paso](https://github.com/0xmrivas/Taller-IECA24-IA-en-el-aula/plantilla.md)
+
+
+**Ejemplos de conversaciones para generar la SdA con un solo prompt**
 - [Ejemplo de una SdA generada con una plantilla y Hugging Chat](https://hf.co/chat/r/Y4vpW2k)
 - [Ejemplo de una SdA generada con una plantilla y ChatGPT](https://chat.openai.com/share/202a25ec-0483-40d0-945c-cfb3145e87f0)
-
+- [Plantilla para autocomplementar](https://github.com/0xmrivas/Taller-IECA24-IA-en-el-aula)
 
 ## Desarrollo de un Avatar Personalizado
 Crearemos avatares que representen ya sea su propia imagen o cualquier otra que elijan. Esta es una oportunidad para que cada uno proyecte su identidad única en el aula virtual.
@@ -26,13 +32,14 @@ Para la generación del avatar usaremos los siguientes **recursos**:
 
 - [IP-Adapter-FaceID](https://huggingface.co/spaces/multimodalart/Ip-Adapter-FaceID)
 - [Generador De Caras Aleatorias](https://www.thispersondoesnotexist.com/)
+- [Free online photo editor](https://www.fotor.com/photo-editor-app/editor/basic)
 
 ## Animación y Presentación del Avatar
 Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje de manera interactiva y atractiva.
 
 Para la animación del avatar usaremos los siguientes **recursos**:
 - [DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk)
-
+- [Free online voice recorder]()
 
 ## Clonación de Voz para el Avatar
 Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así un toque personal y realista.
