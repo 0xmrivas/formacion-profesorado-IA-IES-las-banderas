@@ -25,7 +25,7 @@ Crearemos avatares que representen ya sea su propia imagen o cualquier otra que 
 Para la generación del avatar usaremos los siguientes **recursos**:
 
 - [IP-Adapter-FaceID](https://huggingface.co/spaces/multimodalart/Ip-Adapter-FaceID)
-- [https://www.thispersondoesnotexist.com/](https://www.thispersondoesnotexist.com/)
+- [Generador De Caras Aleatorias](https://www.thispersondoesnotexist.com/)
 
 ## Animación y Presentación del Avatar
 Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje de manera interactiva y atractiva.
@@ -68,7 +68,3 @@ Para la clonación de la voz usaremos los siguientes **recursos**:
 
 - [Plantilla de Google Sheets que nos facilitará el trabajo de crear un prompt con el que generar una SdA](https://docs.google.com/spreadsheets/d/1_ttpc1s6Ve528kqo1elvbOQxYj_fx_bIOu7rxfsmNVI/edit?usp=sharing)
 - [Cómo escribir Situaciones de Aprendizaje (LOMLOE) con ChatGPT](https://profesorproductivo.com/como-escribir-situaciones-de-aprendizaje-con-chatgpt/)
-
-
-## Créditos
-Éste taller ha sido preparado en colaboración con [David Romero Santos](https://davidlms.github.io/).
