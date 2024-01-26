@@ -17,13 +17,13 @@ Para la generación de la SdA usaremos los siguientes **recursos**:
 - [ChatGPT](https://chat.openai.com/)
 
 **Ejemplos de conversaciones para genererar la SdA paso a paso**
-- [Ejemplo de conversación para generar una SdA paso a paso](https://github.com/0xmrivas/Taller-IECA24-IA-en-el-aula/plantilla.md)
+- [Ejemplo de conversación para generar una SdA paso a paso](https://chat.openai.com/share/4320f3e4-ed57-4aab-97ac-e716e52a6169)
 
 
 **Ejemplos de conversaciones para generar la SdA con un solo prompt**
 - [Ejemplo de una SdA generada con una plantilla y Hugging Chat](https://hf.co/chat/r/Y4vpW2k)
 - [Ejemplo de una SdA generada con una plantilla y ChatGPT](https://chat.openai.com/share/202a25ec-0483-40d0-945c-cfb3145e87f0)
-- [Plantilla para autocomplementar](https://github.com/0xmrivas/Taller-IECA24-IA-en-el-aula)
+- [Plantilla para autocomplementar](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/plantilla.md)
 
 ## 2. Desarrollo de un Avatar Personalizado
 Crearemos avatares que representen ya sea su propia imagen o cualquier otra que elijan. Esta es una oportunidad para que cada uno proyecte su identidad única en el aula virtual.
@@ -39,7 +39,7 @@ Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje d
 
 Para la animación del avatar usaremos los siguientes **recursos**:
 - [DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk)
-- [Free online voice recorder]()
+- [Free online voice recorder](https://voice-recorder-online.com/)
 
 ## 4. Clonación de Voz para el Avatar (Opcional)
 Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así un toque personal y realista.
