@@ -64,10 +64,11 @@ Para la clonación de la voz usaremos los siguientes **recursos**:
 - XTTS -> [Eleven Labs](https://elevenlabs.io) o [Narakeet](https://www.narakeet.com)
 
 
-## Créditos
-Éste taller ha sido preparado en colaboración con [David Romero Santos](https://davidlms.github.io/).
-
 ## Referencias
 
 - [Plantilla de Google Sheets que nos facilitará el trabajo de crear un prompt con el que generar una SdA](https://docs.google.com/spreadsheets/d/1_ttpc1s6Ve528kqo1elvbOQxYj_fx_bIOu7rxfsmNVI/edit?usp=sharing)
 - [Cómo escribir Situaciones de Aprendizaje (LOMLOE) con ChatGPT](https://profesorproductivo.com/como-escribir-situaciones-de-aprendizaje-con-chatgpt/)
+
+
+## Créditos
+Éste taller ha sido preparado en colaboración con [David Romero Santos](https://davidlms.github.io/).
