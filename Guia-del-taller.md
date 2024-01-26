@@ -15,8 +15,8 @@ Para la generación de la SdA usaremos los siguientes **recursos**:
 - [Hugging Chat Mixtral8x7B](https://huggingface.co/chat/)
 - [ChatGPT](https://chat.openai.com/)
 - [Ejemplo de conversación para generar una SdA paso a paso]()
-- [Ejemplo de una SdA generada con una plantilla y ChatGPT]()
-- [Ejemplo de una SdA generada con una plantilla y ChatGPT]()
+- [Ejemplo de una SdA generada con una plantilla y Hugging Chat](https://hf.co/chat/r/Y4vpW2k)
+- [Ejemplo de una SdA generada con una plantilla y ChatGPT](https://chat.openai.com/share/202a25ec-0483-40d0-945c-cfb3145e87f0)
 
 
 ## Desarrollo de un Avatar Personalizado
