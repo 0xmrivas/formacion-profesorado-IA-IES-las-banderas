@@ -25,6 +25,7 @@ Crearemos avatares que representen ya sea su propia imagen o cualquier otra que 
 Para la generación del avatar usaremos los siguientes **recursos**:
 
 - [IP-Adapter-FaceID](https://huggingface.co/spaces/multimodalart/Ip-Adapter-FaceID)
+- [https://www.thispersondoesnotexist.com/](https://www.thispersondoesnotexist.com/)
 
 ## Animación y Presentación del Avatar
 Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje de manera interactiva y atractiva.
