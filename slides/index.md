@@ -6,17 +6,17 @@
 
 ## Bienvenidos al Futuro de la Educación
 
-<img class="r-stretch" style="text-align: center" src="assets/img.png">
+<!-- <img class="r-stretch" style="text-align: center" src="assets/img.png"> -->
 
 ---
 
-## IA Generativa y Modelos de Lenguaje
+## IA Generativa
 
 <img class="r-stretch" style="text-align: center" src="assets/IA-Generativa.png">
 
 ---
 
-## Uniendo IA y Educación para transformar la forma de enseñar y aprender.
+## Uniendo IA y Educación para transformar la forma de enseñar y aprender
 
 <img class="r-stretch" style="text-align: center" src="assets/IA-y-Educacion.png">
 
@@ -24,7 +24,7 @@
 
 ## Nuestro objetivo
 
-Note: Crear una situación de aprendizaje original y un avatar animado con voz clonada del docente
+### Crear una situación de aprendizaje original y un avatar animado con voz clonada del docente <!-- .element: class="fragment" -->
 
 ---
 

@@ -7,8 +7,8 @@
 Bienvenidos al taller "IA en el aula: Innovando la Educación del futuro" donde exploraremos cómo la Inteligencia Artificial puede innovar y enriquecer la educación. A continuación, encontrarán los pasos y recursos que seguiremos para crear una experiencia de aprendizaje única y personalizada.
 
 
-## Diseño de la Situación de Aprendizaje
-Iniciaremos diseñando una situación de aprendizaje original. Elijan un tema que les apasione o que   consideren importante para sus estudiantes.
+## 1. Diseño de la Situación de Aprendizaje
+Iniciaremos diseñando una situación de aprendizaje original. Elijan un tema que les apasione o que consideren importante para sus estudiantes.
 
 Para la generación de la SdA usaremos los siguientes **recursos**:
 
@@ -25,7 +25,7 @@ Para la generación de la SdA usaremos los siguientes **recursos**:
 - [Ejemplo de una SdA generada con una plantilla y ChatGPT](https://chat.openai.com/share/202a25ec-0483-40d0-945c-cfb3145e87f0)
 - [Plantilla para autocomplementar](https://github.com/0xmrivas/Taller-IECA24-IA-en-el-aula)
 
-## Desarrollo de un Avatar Personalizado
+## 2. Desarrollo de un Avatar Personalizado
 Crearemos avatares que representen ya sea su propia imagen o cualquier otra que elijan. Esta es una oportunidad para que cada uno proyecte su identidad única en el aula virtual.
 
 Para la generación del avatar usaremos los siguientes **recursos**:
@@ -34,14 +34,14 @@ Para la generación del avatar usaremos los siguientes **recursos**:
 - [Generador De Caras Aleatorias](https://www.thispersondoesnotexist.com/)
 - [Free online photo editor](https://www.fotor.com/photo-editor-app/editor/basic)
 
-## Animación y Presentación del Avatar
+## 3. Animación y Presentación del Avatar
 Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje de manera interactiva y atractiva.
 
 Para la animación del avatar usaremos los siguientes **recursos**:
 - [DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk)
 - [Free online voice recorder]()
 
-## Clonación de Voz para el Avatar
+## 4. Clonación de Voz para el Avatar (Opcional)
 Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así un toque personal y realista.
 
 
