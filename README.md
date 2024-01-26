@@ -4,7 +4,7 @@
   <img src="assets/IA en el aula: Innovando la Educación del futuro.png" alt="Cover IA en el aula">
 </p>
 
-Repositorio para alojar los materiales del taller "IA en el aula: Innovando la Educación del futuro" de formación", realizado en las jornadas de innovaciñón educativa #IECA24  organozadas por el CEP de Cádiz durante el mes de enero de 2024.
+Repositorio para alojar los materiales del taller "IA en el aula: Innovando la Educación del futuro" de formación", realizado en las jornadas de innovación educativa #IECA24  organizadas por el CEP de Cádiz durante el mes de enero de 2024.
 
 Duración del taller: 45 minutos en modalidad presencial
 
@@ -23,7 +23,7 @@ El objetivo principal será explorar la integración de la IA en el ámbito educ
 Para lograr esto, combinaremos cuatro modelos de IA de código abierto, lo que nos permitirá explorar diferentes aspectos y herramientas de la tecnología de IA en la educación.
 
 
-## Desarrollo del taller
+## Materiales del taller
 
 * [Presentación](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/slides/)
 * [Guía de la sesión](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/Guia-del-taller.html)

@@ -8,24 +8,28 @@ Bienvenidos al taller "IA en el aula: Innovando la Educación del futuro" donde 
 
 
 ## Diseño de la Situación de Aprendizaje
-Iniciaremos diseñando una situación de aprendizaje original. Elijan un tema que les apasione o que consideren importante para sus estudiantes.
+Iniciaremos diseñando una situación de aprendizaje original. Elijan un tema que les apasione o que   consideren importante para sus estudiantes.
 
-### Recursos
+Para la generación de la SdA usaremos los siguientes **recursos**:
+
 - [Hugging Chat Mixtral8x7B](https://huggingface.co/chat/)
-- [Ejemplo de conversación]()
-- [Plantilla]()
+- [ChatGPT](https://chat.openai.com/)
+- [Ejemplo de conversación para generar una SdA paso a paso]()
+- [Ejemplo de una SdA generada con una plantilla y ChatGPT]()
+- [Ejemplo de una SdA generada con una plantilla y ChatGPT]()
 
 
 ## Desarrollo de un Avatar Personalizado
 Crearemos avatares que representen ya sea su propia imagen o cualquier otra que elijan. Esta es una oportunidad para que cada uno proyecte su identidad única en el aula virtual.
 
-### Recursos
+Para la generación del avatar usaremos los siguientes **recursos**:
+
 - [IP-Adapter-FaceID](https://huggingface.co/spaces/multimodalart/Ip-Adapter-FaceID)
 
 ## Animación y Presentación del Avatar
 Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje de manera interactiva y atractiva.
 
-### Recursos
+Para la animación del avatar usaremos los siguientes **recursos**:
 - [DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk)
 
 
@@ -33,7 +37,8 @@ Nuestros avatares cobrarán vida para presentar las situaciones de aprendizaje d
 Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así un toque personal y realista.
 
 
-### Recursos
+Para la clonación de la voz usaremos los siguientes **recursos**:
+
 - [XTTS](https://huggingface.co/spaces/coqui/xtts)
 
 <!-- ### Modelos Open Source
@@ -58,3 +63,10 @@ Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así
 - XTTS -> [Eleven Labs](https://elevenlabs.io) o [Narakeet](https://www.narakeet.com)
 
 
+## Créditos
+Éste taller ha sido preparado en colaboración con [David Romero Santos](https://davidlms.github.io/).
+
+## Referencias
+
+- [Plantilla de Google Sheets que nos facilitará el trabajo de crear un prompt con el que generar una SdA](https://docs.google.com/spreadsheets/d/1_ttpc1s6Ve528kqo1elvbOQxYj_fx_bIOu7rxfsmNVI/edit?usp=sharing)
+- [Cómo escribir Situaciones de Aprendizaje (LOMLOE) con ChatGPT](https://profesorproductivo.com/como-escribir-situaciones-de-aprendizaje-con-chatgpt/)

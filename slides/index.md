@@ -22,8 +22,7 @@
 
 ---
 
-## Nuestro objetivo ...
-
+## Nuestro objetivo
 
 Note: Crear una situación de aprendizaje original y un avatar animado con voz clonada del docente
 
