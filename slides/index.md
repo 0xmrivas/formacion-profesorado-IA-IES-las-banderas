@@ -24,20 +24,13 @@
 
 ## Nuestro objetivo
 
-### Crear una situación de aprendizaje original y un avatar animado con voz clonada del docente <!-- .element: class="fragment" -->
+Crear una situación de aprendizaje original y un avatar animado con voz clonada del docente <!-- .element: class="fragment" -->
 
 ---
 
 ## Acceso a los materiales
 
 <img class="r-stretch" style="text-align: center" src="assets/qr-materiales.png">
-
-
-<!-- ---
-
-## Descarga los materiales
-
-<img class="r-stretch" style="text-align: center" src="assets/qr-materiales-descargables.png"> -->
 
 ---
 
@@ -64,5 +57,5 @@
 
 ## ¡ Escanea, y Opina !
 
-<img class="r-stretch" style="text-align: center" src="assets/qr-feedback.png">
+<img class="r-stretch" style="text-align: center" src="assets/feedback.png">
 
