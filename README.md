@@ -1,33 +1,25 @@
 # IA en el aula: Innovando la Educación del futuro
 
 <p align="center">
-  <img src="assets/IA en el aula: Innovando la Educación del futuro.png" alt="Cover IA en el aula">
+  <img src="assets/cover.webp" alt="Cover IA en el aula">
 </p>
 
-Repositorio para alojar los materiales del taller "IA en el aula: Innovando la Educación del futuro" de formación", realizado en las jornadas de innovación educativa #IECA24  organizadas por el CEP de Cádiz durante el mes de enero de 2024.
+Repositorio para alojar los materiales  de la formación en "IA en el aula: Innovando la Educación del futuro" de formación", del Grupo de Trabajo del IES Las Banderas durante el mes de mayo del 2024.
 
-Duración del taller: 45 minutos en modalidad presencial
+Duración de la formación: 1 sesión de 3 horas en modalidad presencial
 
-## Descripción de la Actividad
+## Descripción de la la Actividad
 
-El objetivo principal será explorar la integración de la IA en el ámbito educativo, y para ello hemos diseñado una actividad práctica y creo que bastante interesante.
+El objetivo principal es explorar la integración de la IA en el ámbito educativo, y para ello hemos diseñado una actividad práctica que se desglosa en los sigiuientes apartados.
 
-- **Diseño de la Situación de Aprendizaje**: Los participantes del taller comenzarán diseñando una situación de aprendizaje, centrada en un tema específico de su elección. Esta será la base de la actividad.
+- **Fundamentos y Aplicaciones de la IA Generativa**: Explora cómo la IA genera contenido y amplía posibilidades educativas, desde texto a 3D.
 
-- **Desarrollo de un Avatar Personalizado**: A continuación, cada docente tendrá la oportunidad de crear un avatar. Este avatar puede tener la cara del docente o cualquier otra apariencia que prefieran. Este paso personaliza la experiencia, permitiendo a los docentes proyectar su identidad o creatividad en el avatar.
+- **Diseño de Situaciones de Aprendizaje con IA**: Aprende a crear actividades educativas enriquecidas con modelos de lenguaje para un aprendizaje interactivo.
 
-- **Animación y Presentación del Avatar**: El avatar será animado para presentar la situación de aprendizaje a los estudiantes. Incorporaremos un texto introductorio diseñado para captar la atención y facilitar la comprensión del tema.
-
-- **Clonación de Voz para el Avatar**: Finalmente, pasaremos a clonar la voz del docente para darle voz al avatar, añadiendo así un nivel de personalización y realismo.
-
-Para lograr esto, combinaremos cuatro modelos de IA de código abierto, lo que nos permitirá explorar diferentes aspectos y herramientas de la tecnología de IA en la educación.
+- **Potenciando la Productividad Docente con IA**: Descubre cómo diferentes modelos de IA optimizan tareas docentes, desde la planificación hasta la evaluación.
 
 
-## Materiales del taller
+## Materiales de la Actividad
 
-* [Presentación](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/slides/)
-* [Guía de la sesión](https://0xmrivas.github.io/Taller-IECA24-IA-en-el-aula/Guia-del-taller.html)
-
-
-## Créditos
-Éste taller ha sido preparado en colaboración con [David Romero Santos](https://davidlms.github.io/).
+* [Presentación](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/slides/)
+* [Guía de la sesión](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/Guia-del-taller.html)

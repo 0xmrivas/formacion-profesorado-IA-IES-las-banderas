@@ -1,6 +1,6 @@
 <h2 class="r-fit-text" style="text-align: center"> IA en el aula: Innovando la Educación del futuro </h2>
 
-<img class="r-stretch" style="text-align: center" src="assets/IA en el aula: Innovando la Educación del futuro.png">
+<img class="r-stretch" style="text-align: center" src="../assets/cover.webp">
  
 ---
 
