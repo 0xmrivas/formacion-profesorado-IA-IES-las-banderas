@@ -1,7 +1,7 @@
 # IA en el aula: Innovando la Educación del futuro
 
 <p align="center">
-  <img src="assets/cover.webp" alt="Cover IA en el aula">
+  <img src="assets/logoIES.jpeg" alt="Cover IA en el aula">
 </p>
 
 Repositorio para alojar los materiales  de la formación en "IA en el aula: Innovando la Educación del futuro" de formación", del Grupo de Trabajo del IES Las Banderas durante el mes de mayo del 2024.
@@ -22,4 +22,4 @@ El objetivo principal es explorar la integración de la IA en el ámbito educati
 ## Materiales de la Actividad
 
 * [Presentación](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/slides/)
-* [Guía de la sesión](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/Guia-del-taller.html)
+* [Referencias](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/referencias/)
