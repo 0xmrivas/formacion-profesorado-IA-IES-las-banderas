@@ -8,8 +8,10 @@
 * [Herramientas de generación de vídeo](#Herramientas-de-generacion-de-video)
 * [Herramientas de generación de música](#Herramientas-de-generacion-de-musica)
 * [Herramientas de generación y clonación de voces](#Herramientas-de-generacion-y-clonacion-de-voces)
+* [Creación de un avatar personalizado y animado con tu voz](#Creacion-de-un-avatar-personalizado-y-animado-con-tu-voz)
 * [Algunas conversaciones de aplicación en el ámbito docente](#Algunas-conversaciones-de-aplicacion-en-el-ambito-docente)
 * [¿Dónde puedo probar los modelos de lenguaje?](#¿Donde-puedo-probar-los-modelos-de-lenguaje?)
+* [Trabajando con LLMS](#Trabajando-con-LLMS)
 * [Artículos explicativos](#Articulos-explicativos)
 * [Vídeos explicativos](#Videos-explicativos)
 * [Documentales](#Documentales)
@@ -18,7 +20,7 @@
 
 <a name="Herramientas-de-generacion-de-texto"></a>
 
-### Herramientas de generación de texto
+## Herramientas de generación de texto
 
 * [GPT-4](https://openai.com/gpt-4)
 
@@ -30,11 +32,11 @@
 
 * [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Herramientas-de-generacion-de-imagenes"></a>
 
-### Herramientas de generación de imágenes
+## Herramientas de generación de imágenes
 
 * [DALL·E 3](https://openai.com/dall-e-3)
 
@@ -44,11 +46,11 @@
 
 * [Stable Diffusion XL](https://stability.ai/stable-diffusion)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Herramientas-de-generacion-de-video"></a>
 
-### Herramientas de generación de vídeo
+## Herramientas de generación de vídeo
 
 * [GEN-2](https://research.runwayml.com/gen2)
 
@@ -58,21 +60,21 @@
 
 * [zeroscope v2](https://huggingface.co/cerspense/zeroscope_v2_576w)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Herramientas-de-generacion-de-musica"></a>
 
-### Herramientas de generación de música
+## Herramientas de generación de música
 
 * [AIVA](https://www.aiva.ai)
 
 * [MusicGen](https://ai.honu.io/papers/musicgen/)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Herramientas-de-generacion-y-clonacion-de-voces"></a>
 
-### Herramientas de generación y clonación de voces
+## Herramientas de generación y clonación de voces
 
 * [ElevenLabs](https://elevenlabs.io) 
 
@@ -82,11 +84,17 @@
 
 * [Bark](https://github.com/suno-ai/bark)
 
-[Subir](#top)
+[Ir al índice](#top)
+
+<a name="Creacion-de-un-avatar-personalizado-y-animado-con-tu-voz"></a>
+
+## Ejemplo: Creación de un avatar personalizado y animado con tu voz
+
+* [Enlace al Ejemplo](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/avatar/)
 
 <a name="Algunas-conversaciones-de-aplicacion-en-el-ambito-docente"></a>
 
-# Algunas conversaciones de aplicación en el ámbito docente
+## Algunas conversaciones de aplicación en el ámbito docente
 
 * [Programaciones didácticas](../chats/programaciondidactica.html)
 
@@ -106,11 +114,11 @@
 
 * [Publicaciones en redes sociales](../chats/rrss.html)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="¿Donde-puedo-probar-los-modelos-de-lenguaje?"></a>
 
-### ¿Dónde puedo probar los modelos de lenguaje?
+## ¿Dónde puedo probar los modelos de lenguaje?
 
 * [ChatGPT](https://chat.openai.com)
 
@@ -126,19 +134,37 @@
 
 * [Luzia](https://www.luzia.com)
 
-[Subir](#top)
+[Ir al índice](#top)
+
+<a name="Trabajando-con-LLMS"></a>
+
+## Trabajando con LLMS
+
+* [Investigación: Perplexity](https://www.perplexity.ai)
+
+* [LLM con funciones: Microsoft Copilot](https://copilot.microsoft.com)
+
+* [Generación de imágenes a partir de texto: Ideogram](https://ideogram.ai)
+
+* [Generación de música a partir de texto: Suno](https://suno.ai)
+
+* [Chatear con un PDF](https://smallpdf.com/ai-pdf)
+
+* [Transcripción de texto: Whisper](https://huggingface.co/spaces/openai/whisper)
+
+[Ir al índice](#top)
 
 <a name="Articulos-explicativos"></a>
 
-### Artículos explicativos
+## Artículos explicativos
 
 * [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Videos-explicativos"></a>
 
-### Vídeos explicativos
+## Vídeos explicativos
 
 * [Modelos para entender una realidad caótica](https://www.youtube.com/watch?v=Sb8XVheowVQ) - Definición intuitiva de modelo.
 
@@ -150,11 +176,11 @@
 
 * [¿Por qué estas REDES NEURONALES son tan POTENTES? - TRANSFORMERS Parte 2](https://www.youtube.com/watch?v=xi94v_jl26U)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Podcasts"></a>
 
-### Podcasts
+## Podcasts
 
 * [Ingeniería de prompts y ChatGPT](https://open.spotify.com/episode/6oru6XgS1U44kbuuCbHUGc)
 
@@ -162,29 +188,29 @@
 
 * [OpenAI, acelera la adolescencia de Sammy](https://podcasters.spotify.com/pod/show/olivernabani/episodes/OpenAI--acelera-la-adolescencia-de-Sammy-e2bjt75/a-aaj11l1)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Documentales"></a>
 
-### Documentales
+## Documentales
 
 * [Alter Ego. La inteligencia invisible](https://www.rtve.es/play/videos/alter-ego-la-inteligencia-invisible/)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Articulos-cientificos"></a>
 
-### Artículos científicos
+## Artículos científicos
 
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
 * [Large Language Models as Optimizers](https://arxiv.org/pdf/2309.03409.pdf)
 
-[Subir](#top)
+[Ir al índice](#top)
 
 <a name="Cursos"></a>
 
-### Cursos
+## Cursos
 
 * [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 
@@ -192,4 +218,4 @@
 
 * [IA generativa con grandes modelos lingüísticos](https://www.coursera.org/learn/generative-ai-with-llms#modules)
 
-[Subir](#top)
+[Ir al índice](#top)

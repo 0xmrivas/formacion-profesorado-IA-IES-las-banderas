@@ -298,6 +298,71 @@ Humor y sarcasmo <!-- .element: class="fragment" -->
 
 Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
 ---
+## Trabajando con LLMs
+
+<img class="r-stretch" style="text-align: center" src="../assets/trabajando-con-llms.png">
+
+
+## Investigación
+
+<img class="r-stretch" style="text-align: center" src="../assets/perplexity.png">
+
+<small>https://www.perplexity.ai</small>
+
+
+## Probando ChatGPT Plus
+
+<img class="r-stretch" style="text-align: center" src="../assets/copilot.png">
+
+<small>https://copilot.microsoft.com</small>
+
+
+## Capacidades de Copilot
+
+Elección de la temperatura <!-- .element: class="fragment" -->
+
+Generación de imágenes <!-- .element: class="fragment" -->
+
+Descripción de imágenes <!-- .element: class="fragment" -->
+
+Bloc de notas para prompts extensos <!-- .element: class="fragment" -->
+
+
+## Generación de imágenes con texto
+
+<img class="r-stretch" style="text-align: center" src="../assets/ideogram.png">
+
+<small>https://ideogram.ai</small>
+
+
+## Generación de música
+
+Chirp - Modelo experimental de Suno AI
+
+[Disponible en Discord](https://discord.gg/suno-ai)
+
+También en la web [suno.ai](https://suno.ai)
+
+
+## Cómo hablar con un PDF
+
+<img class="r-stretch" style="text-align: center" src="../assets/ai-pdf.png">
+
+<small>https://smallpdf.com/ai-pdf</small>
+
+
+## Cómo hablar con un vídeo de Youtube
+
+<img class="r-stretch" style="text-align: center" src="../assets/whisper.png">
+
+<small>https://huggingface.co/spaces/openai/whisper</small>
+---
+<!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
+
+
+
+
+---
 <!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
 ## ¡Gracias por haberme dedicado vuestro tiempo!
