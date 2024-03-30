@@ -311,6 +311,7 @@ Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
 
 <img class="r-stretch" style="text-align: center" src="../assets/trabajando-con-llms.png">
 
+
 ## Investigación
 
 <img class="r-stretch" style="text-align: center" src="../assets/perplexity.png">
@@ -374,7 +375,7 @@ También en la web [suno.ai](https://suno.ai)
 
 ## ¡ Escanea, y Opina !
 
-<img class="r-stretch" style="text-align: center" src="assets/feedback.png">
+<img class="r-stretch" style="text-align: center" src="../assets/qr_feedback.png">
 
 ---
 

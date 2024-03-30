@@ -90,7 +90,7 @@
 
 ## Ejemplo: Creación de un avatar personalizado y animado con tu voz
 
-* [Enlace al Ejemplo](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/avatar/)
+* [Enlace a la guía del Ejemplo](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/avatar/)
 
 <a name="Algunas-conversaciones-de-aplicacion-en-el-ambito-docente"></a>
 

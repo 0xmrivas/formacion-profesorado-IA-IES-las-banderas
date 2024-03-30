@@ -4,7 +4,7 @@
   <img src="assets/logoIES.jpeg" alt="Cover IA en el aula">
 </p>
 
-Repositorio para alojar los materiales  de la formación en "IA en el aula: Innovando la Educación del futuro" de formación", del Grupo de Trabajo del IES Las Banderas durante el mes de mayo del 2024.
+Repositorio para alojar los materiales  de la formación en "IA en el aula: Innovando la Educación del futuro" de formación", del Grupo de Trabajo del IES Las Banderas durante el mes de abril del 2024.
 
 Duración de la formación: 1 sesión de 3 horas en modalidad presencial
 
