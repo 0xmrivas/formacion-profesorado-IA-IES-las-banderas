@@ -357,12 +357,7 @@ También en la web [suno.ai](https://suno.ai)
 
 <small>https://huggingface.co/spaces/openai/whisper</small>
 ---
-<!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
-
-
-
----
 <!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
 ## ¡Gracias por haberme dedicado vuestro tiempo!
