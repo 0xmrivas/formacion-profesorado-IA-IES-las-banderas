@@ -92,6 +92,8 @@
 
 * [Enlace a la guía del Ejemplo](https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/avatar/)
 
+[Ir al índice](#top)
+
 <a name="Algunas-conversaciones-de-aplicacion-en-el-ambito-docente"></a>
 
 ## Algunas conversaciones de aplicación en el ámbito docente
