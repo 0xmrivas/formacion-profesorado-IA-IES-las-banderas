@@ -8,7 +8,7 @@
 * [Herramientas de generación de vídeo](#Herramientas-de-generacion-de-video)
 * [Herramientas de generación de música](#Herramientas-de-generacion-de-musica)
 * [Herramientas de generación y clonación de voces](#Herramientas-de-generacion-y-clonacion-de-voces)
-* [Creación de un avatar personalizado y animado con tu voz](#Creacion-de-un-avatar-personalizado-y-animado-con-tu-voz)
+* [Ejemplo: Creación de un avatar personalizado y animado con tu voz](#Creacion-de-un-avatar-personalizado-y-animado-con-tu-voz)
 * [Algunas conversaciones de aplicación en el ámbito docente](#Algunas-conversaciones-de-aplicacion-en-el-ambito-docente)
 * [¿Dónde puedo probar los modelos de lenguaje?](#¿Donde-puedo-probar-los-modelos-de-lenguaje?)
 * [Trabajando con LLMS](#Trabajando-con-LLMS)

@@ -298,10 +298,15 @@ Humor y sarcasmo <!-- .element: class="fragment" -->
 
 Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
 ---
+## Ejemplo: Creación de un Avatar Personalizado y Animado con tu Voz
+
+<p align="center">
+  ![](assets/avatar.mp4)
+</p>
+---
 ## Trabajando con LLMs
 
 <img class="r-stretch" style="text-align: center" src="../assets/trabajando-con-llms.png">
-
 
 ## Investigación
 
