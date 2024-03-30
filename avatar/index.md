@@ -20,14 +20,22 @@ Para la generación del avatar usaremos los siguientes **recursos**:
 - [Generador De Caras Aleatorias](https://www.thispersondoesnotexist.com/)
 - [Free online photo editor](https://www.fotor.com/photo-editor-app/editor/basic)
 
-## 3. Animación y Presentación del Avatar
+## Paso 2: Generación de Texto para el Avatar
+Ahora, una vez generado el avatar, utilizaremos un modelo de lenguaje para generar texto para el avatar. 
+
+Para la generación del texto usaremos los siguientes **recursos**:
+
+* [ChatGPT](https://chat.openai.com)
+* [Hugging Face](https://huggingface.co/chat/)
+
+## Paso 3. Animación y Presentación del Avatar
 Una vez que tengamos nuestro avatar generado, utilizaremos un segundo modelo especializado en animación facial. Este modelo permitirá dar vida al avatar, animando sus expresiones faciales de manera realista y sincronizada con la voz del usuario.
 
 Para la animación del avatar usaremos los siguientes **recursos**:
 - [DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk)
 - [Free online voice recorder](https://voice-recorder-online.com/)
 
-## 4. Clonación de Voz para el Avatar (Opcional)
+## Paso 4. Clonación de Voz para el Avatar (Opcional)
 Daremos voz a nuestros avatares clonando nuestras propias voces, añadiendo así un toque personal y realista.
 
 Para la clonación de la voz usaremos los siguientes **recursos**:
