@@ -1,10 +1,15 @@
 # Creación de un Avatar Personalizado y Animado con tu Voz
 
 <p align="center">
-  ![](assets/avatar.mp4)
+<video width="480" height="360" controls>
+  <source src="assets/avatar.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
 </p>
 
 En la era digital actual, la personalización y la interactividad son elementos clave en la experiencia del usuario. En este ejemplo, exploraremos cómo utilizar varios modelos de inteligencia artificial para crear un avatar personalizado y animado, acompañado de la capacidad de sincronizar su movimiento con la voz del usuario.
+
+![](assets/avatar.mp4)
 
 ## Paso 1. Generación del Avatar desde una fotografía
 Comenzaremos utilizando un modelo de generación de avatares a partir de una fotografía. Este modelo empleará técnicas de visión por computadora y redes neuronales para transformar una fotografía estática del usuario en un avatar personalizado.

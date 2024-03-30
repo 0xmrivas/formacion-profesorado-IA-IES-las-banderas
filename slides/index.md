@@ -301,7 +301,10 @@ Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
 ## Ejemplo: Creación de un Avatar Personalizado y Animado con tu Voz
 
 <p align="center">
-  ![](assets/avatar.mp4)
+<video width="480" height="360" controls>
+  <source src="../avatar/assets/avatar.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
 </p>
 ---
 ## Trabajando con LLMs
