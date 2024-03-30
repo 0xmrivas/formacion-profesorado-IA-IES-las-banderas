@@ -377,6 +377,8 @@ También en la web [suno.ai](https://suno.ai)
 
 <img class="r-stretch" style="text-align: center" src="../assets/qr_feedback.png">
 
+<small>https://app.wooclap.com/MJGERM</small>
+
 ---
 
 ## Recursos
