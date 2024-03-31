@@ -297,8 +297,12 @@ Tareas que conlleven conocimiento factual no proporcionado <!-- .element: class=
 Humor y sarcasmo <!-- .element: class="fragment" -->
 
 Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
+
 ---
-## Ejemplo: Creación de un Avatar Personalizado y Animado con tu Voz
+
+## Combinando varios modelos...
+
+Creación de un Avatar Personalizado y Animado con tu Voz
 
 <p align="center">
 <video width="480" height="360" controls>
@@ -306,6 +310,9 @@ Razonamientos excesivamente complejos <!-- .element: class="fragment" -->
   Tu navegador no soporta el elemento de video.
 </video>
 </p>
+
+<small>https://0xmrivas.github.io/formacion-profesorado-IA-IES-las-banderas/avatar</small>
+
 ---
 ## Trabajando con LLMs
 
@@ -365,6 +372,7 @@ También en la web [suno.ai](https://suno.ai)
 <img class="r-stretch" style="text-align: center" src="../assets/whisper.png">
 
 <small>https://huggingface.co/spaces/openai/whisper</small>
+
 ---
 
 <!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
